@@ -5,3 +5,5 @@ __pycache__/
 orders.txt
 customers.txt
 order_log.txt
+products.json
+orders.json
